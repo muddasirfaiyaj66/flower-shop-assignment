@@ -77,7 +77,7 @@
 }
 .our-featured-box-container{
     display: flex;
-    justify-content:space-evenly;
+    justify-content:space-between;
     height: 500px;
     align-items: center;
     margin-bottom: 5px;
@@ -123,6 +123,7 @@
     font-weight: 600;
     text-align: center;
     padding: 15px;
+    margin-left: -8px;
 
 }
 .our-featured-box-2 h5{
@@ -206,3 +207,35 @@
     width: 300px;
 
 }
+/* Instagram section styles */
+.instagram-section-container{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 100px;
+
+}
+.instagram-section-title{
+    text-align: center;
+    color:#272727;
+    font-size: 28px;
+    font-weight: 800;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+.instagram-section-description{
+    width:600px;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 60px;
+    margin-left: 300px;
+
+}
+.instagram-section-content{
+    display: flex;
+    justify-content: space-between;
+}
+.instagram-content-box img{
+    width:290px;
+}
+ 
