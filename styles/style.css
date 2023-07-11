@@ -28,17 +28,18 @@
     align-items: center;
     background-color: #E554731A;
     margin-bottom: 180px;
+
 }
 
 .banner-content-image img {
     width: 100%;
-    height: 550px;
+    height: 500px;
     
 
 }
 .banner-content-image{
-    text-align: end;
-    height: 521px;
+    margin-bottom: -83px;
+    
     
 
 }
