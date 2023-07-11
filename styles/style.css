@@ -7,11 +7,12 @@
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
 }
-.btn{
+
+.btn {
     margin-left: 170px;
     padding: 18px 25px;
     background-color: #E55473;
-    color:white;
+    color: white;
     font-size: 19px;
     font-weight: 500;
     text-align: center;
@@ -35,7 +36,8 @@
     margin-top: 50px;
 
 }
-.banner-content-title{
+
+.banner-content-title {
     width: 670px;
     text-align: justify;
     font-size: 38px;
@@ -43,10 +45,11 @@
     margin-left: 170px;
     margin-bottom: 30px;
 }
-.banner-content-description{
-    width:630px;
+
+.banner-content-description {
+    width: 630px;
     text-align: justify;
-    color:#27272799;
+    color: #27272799;
     font-size: 17px;
     font-weight: 400;
     margin-left: 180px;
@@ -54,71 +57,81 @@
 }
 
 /* Our Featured Section Styles */
-.our-featured-container{
+.our-featured-container {
     width: 80%;
     margin: auto;
     margin-bottom: 152px;
 }
-.our-featured-title{
+
+.our-featured-title {
     text-align: center;
     color: #272727;
     font-size: 20px;
     font-weight: 800;
-    padding:20px 0px;
+    padding: 20px 0px;
 }
-.our-featured-description{
+
+.our-featured-description {
     text-align: center;
-    width:600px;
+    width: 600px;
     font-size: 16px;
     font-weight: 400;
-    color:#27272799;
+    color: #27272799;
     margin-left: 305px;
     margin-bottom: 45px;
 }
-.our-featured-box-container{
+
+.our-featured-box-container {
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
     height: 500px;
     align-items: center;
     margin-bottom: 5px;
 }
-.our-featured-image-1{
-    width:180px;
+
+.our-featured-image-1 {
+    width: 180px;
     padding: 0px 75px;
     margin-top: 151px;
 }
-.our-featured-image-2{
-    width:250px;
+
+.our-featured-image-2 {
+    width: 250px;
     margin-right: 50px;
     margin-top: 110px;
 }
-.our-featured-image-3{
-    width:180px;
+
+.our-featured-image-3 {
+    width: 180px;
     padding: 0px 80px;
     margin-top: 130px;
 }
-.our-featured-box-1{
+
+.our-featured-box-1 {
     text-align: end;
     width: 350px;
     height: 400px;
     background-color: #A7216226;
     border-radius: 250px 250px 0px 0px;
 }
-.our-featured-box-2{
+
+.our-featured-box-2 {
     text-align: end;
     width: 350px;
     height: 400px;
     background-color: #0597A026;
     border-radius: 250px 250px 0px 0px;
 }
-.our-featured-box-3{
+
+.our-featured-box-3 {
     text-align: end;
     width: 350px;
     height: 400px;
-    background-color:#477D1126;
+    background-color: #477D1126;
     border-radius: 250px 250px 0px 0px;
 }
-.our-featured-box-1 h5{
+
+.our-featured-box-1 h5 {
     font-size: 18px;
     font-weight: 600;
     text-align: center;
@@ -126,7 +139,8 @@
     margin-left: -8px;
 
 }
-.our-featured-box-2 h5{
+
+.our-featured-box-2 h5 {
     font-size: 18px;
     font-weight: 600;
     text-align: center;
@@ -134,42 +148,47 @@
     margin-top: 40px;
 
 }
-.our-featured-box-3 h5{
+
+.our-featured-box-3 h5 {
     font-size: 18px;
     font-weight: 600;
     text-align: center;
     padding: 15px;
 
 }
+
 /* we provides section styles */
-.we-provides{
+.we-provides {
     width: 80%;
     margin: auto;
     height: 320px;
     display: flex;
-   justify-content: space-evenly;
+    justify-content: space-evenly;
     align-items: center;
     background-color: #2727270D;
     margin-bottom: 100px;
 }
-.we-provides-box{
-  text-align: center;
+
+.we-provides-box {
+    text-align: center;
 }
-.we-provides-box img{
+
+.we-provides-box img {
     width: 70px;
-  
-    
+
+
 }
-.we-provides-description{
+
+.we-provides-description {
     text-align: center;
     font-size: 18px;
     font-weight: 400;
-    color:#272727CC;
+    color: #272727CC;
     margin-top: 10px;
 }
 
 /* Hot deals section styles */
-.hot-deals-container{
+.hot-deals-container {
     background-color: #E554730D;
     display: flex;
     justify-content: space-around;
@@ -177,53 +196,62 @@
     align-items: center;
     margin-bottom: 100px;
 }
-.hot-deal-title{
+
+.hot-deal-title {
     text-align: center;
     font-size: 22px;
     font-weight: 700;
-    color:#272727;
+    color: #272727;
     width: 600px;
     margin-bottom: 20px;
 }
-.hot-deal-title span{
-    color:#E55473;
+
+.hot-deal-title span {
+    color: #E55473;
 }
-.hot-deal-description{
+
+.hot-deal-description {
     font-size: 15px;
     font-weight: 400;
-    color:#27272799;
+    color: #27272799;
     width: 550px;
     margin-bottom: 30px;
     margin-left: 50px;
 }
-.hot-deal-btn{
+
+.hot-deal-btn {
     margin-left: 210px;
     padding: 15px 22px;
 }
-.hot-deal-image{
+
+.hot-deal-image {
     width: 400px;
 }
-.hot-deal-image img{
+
+.hot-deal-image img {
     width: 300px;
 
 }
+
 /* Instagram section styles */
-.instagram-section-container{
+.instagram-section-container {
     width: 80%;
     margin: auto;
     margin-bottom: 100px;
 
 }
-.instagram-section-title{
+
+.instagram-section-title {
     text-align: center;
-    color:#272727;
+    color: #272727;
     font-size: 28px;
     font-weight: 800;
     margin-top: 40px;
     margin-bottom: 20px;
 }
-.instagram-section-description{
-    width:600px;
+
+.instagram-section-description {
+    width: 600px;
     font-size: 16px;
     font-weight: 400;
     text-align: center;
@@ -231,11 +259,64 @@
     margin-left: 300px;
 
 }
-.instagram-section-content{
+
+.instagram-section-content {
     display: flex;
     justify-content: space-between;
 }
-.instagram-content-box img{
-    width:290px;
+
+.instagram-content-box img {
+    width: 290px;
 }
- 
+
+/* Latest deals Section styles */
+.latest-deals-container {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 60px;
+    height: 500px;
+    background-image: url('../Flower Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+
+}
+
+.latest-deals-texts {
+    text-align: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.latest-deals-title {
+    font-size: 25px;
+    font-weight: 700;
+    text-align: center;
+    color: #272727;
+    margin-top: 50px;
+    margin-bottom: 10px;
+}
+
+.latest-deals-description {
+    color: #27272799;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.latest-deal-form {
+    text-align: center;
+    margin-top: 50px;
+
+}
+.latest-deal-form input[type="email"]{
+    border:none;
+    font-size: 16px;
+    padding: 20px 60px;
+    border-radius: 8px;
+    height: 15px;
+    width: 420px;
+}
+.subscribe-btn{
+    margin: 0px;
+    margin-left: 10px;
+    padding: 16px 21px;
+}
