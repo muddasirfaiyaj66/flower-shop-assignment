@@ -1,9 +1,22 @@
+/* Common Styles */
+
 * {
     margin: 0px;
     padding: 0px;
     font-family: 'Lato', sans-serif;
     font-family: 'Open Sans', sans-serif;
     font-family: 'Work Sans', sans-serif;
+}
+.btn{
+    margin-left: 170px;
+    padding: 20px 38px;
+    background-color: #E55473;
+    color:white;
+    font-size: 20px;
+    font-weight: 700;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
 }
 
 /* banner section styles */
@@ -39,17 +52,7 @@
     margin-left: 170px;
     margin-bottom: 30px;
 }
-.btn{
-    margin-left: 170px;
-    padding: 20px 38px;
-    background-color: #E55473;
-    color:white;
-    font-size: 20px;
-    font-weight: 700;
-    text-align: center;
-    border: none;
-    border-radius: 5px;
-}
+
 /* Our Featured Section Styles */
 .our-featured-container{
     width: 80%;
@@ -136,4 +139,30 @@
     text-align: center;
     padding: 15px;
 
+}
+/* we provides section styles */
+.we-provides{
+    width: 80%;
+    margin: auto;
+    height: 320px;
+    display: flex;
+   justify-content: space-evenly;
+    align-items: center;
+    background-color: #2727270D;
+    margin-bottom: 100px;
+}
+.we-provides-box{
+  text-align: center;
+}
+.we-provides-box img{
+    width: 70px;
+  
+    
+}
+.we-provides-description{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color:#272727CC;
+    margin-top: 10px;
 }
