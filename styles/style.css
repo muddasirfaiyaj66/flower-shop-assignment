@@ -38,7 +38,6 @@
 }
 .banner-content-image{
     text-align: end;
-    /* margin-top: 65px; */
     height: 521px;
     
 
@@ -193,6 +192,45 @@
     margin-top: 10px;
 }
 
+
+/* Shop by Occasion styles */
+.shop-by-occasion-container{
+    margin-bottom: 140px;
+    width: 80%;
+    margin: auto;
+}
+.shop-by-occasion-title{
+    text-align: center;
+    padding: 20px 0px;
+    margin-bottom: 20px;
+    font-weight: 700;
+    font-size: 23px;
+    color: #272727;
+}
+.shop-by-occasion-title span{
+    color:#ff0037;
+}
+.shop-by-occasion-content{
+    display: flex;
+    justify-content: space-between;
+}
+.shop-by-occasion-box{
+    width: 350px;
+    height: 350px;
+}
+.shop-by-occasion-box img{
+    width: 290px;
+}
+.occasion-box-title{
+    text-align: center;
+    padding: 5px 0px;
+    font-weight: 400;
+    color: #27272799;
+}
+
+
+
+
 /* Hot deals section styles */
 .hot-deals-container {
     background-color: #E554730D;
@@ -201,6 +239,7 @@
     height: 550px;
     align-items: center;
     margin-bottom: 100px;
+    margin-top: 50px;
 }
 
 .hot-deal-title {
@@ -243,7 +282,7 @@
 .instagram-section-container {
     width: 80%;
     margin: auto;
-    margin-bottom: 100px;
+    margin-bottom: 120px;
 
 }
 
@@ -275,6 +314,9 @@
     width: 290px;
 }
 
+
+
+
 /* Latest deals Section styles */
 .latest-deals-container {
     width: 80%;
@@ -284,6 +326,7 @@
     background-image: url('../Flower Asset/Rectangle 9.png');
     background-repeat: no-repeat;
     background-size: contain;
+    margin-top: 80px;
 
 }
 
